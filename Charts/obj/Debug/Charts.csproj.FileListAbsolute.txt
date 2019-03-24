@@ -1,0 +1,4 @@
+C:\mtb\Charts\Charts\bin\Debug\Charts.pdb
+C:\mtb\Charts\Charts\obj\Debug\Charts.dll
+C:\mtb\Charts\Charts\obj\Debug\Charts.pdb
+C:\mtb\Charts\Charts\obj\Debug\Charts.csprojResolveAssemblyReference.cache

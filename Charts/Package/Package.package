@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="2ef85341-9a40-49df-85f8-453d31146c41" 
+        solutionId="2ef85341-9a40-49df-85f8-453d31146c41" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Charts"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="5d277dd7-dbf6-45e4-a3ce-ebceb8cdca4c" />
+  </features>
+</package>

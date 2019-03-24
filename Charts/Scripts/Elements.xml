@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\ChartApp.js" Url="Scripts/ChartApp.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.map" Url="Scripts/jquery-1.9.1.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Chart.min.js" Url="Scripts/Chart.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\DepChartApp.js" Url="Scripts/DepChartApp.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\DateChartApp.js" Url="Scripts/DateChartApp.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\ChartPartApproved.js" Url="Scripts/ChartPartApproved.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
